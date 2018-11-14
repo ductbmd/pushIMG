@@ -1,0 +1,29 @@
+.comment_container{background: none repeat scroll 0 0 #FFFFFF;
+padding: 20px;margin-bottom:15px;border:1px solid #ddd;}
+.comment_title{
+color: #505050;
+font-weight: bold;
+margin-left: 15px;
+padding-left: 10px;}
+.comment_title i{}
+.user-img{}
+.user-img img{background: none repeat scroll 0 0 #FFFFFF;
+border-radius: 10px;
+float: left;
+margin-right: 15px;}
+.comments_text{width: 468px;}
+.comments_text p{}
+.comment_name{color: #35A1FB;
+font-size: 20px;
+font-style: italic;
+margin-bottom: 5px;}
+.comment_name span{float:right;font-size:14px;}
+.comment_name span:hover{font-weight:bold;}
+.comment_name i{color:#000}
+.comment_date{font-size: 13px;margin-bottom:10px;}
+.comment_date i{}
+.{}
+.{}
+.{}
+.{}
+.{}
